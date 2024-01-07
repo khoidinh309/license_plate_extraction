@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>AQUA2_20E14A99_checkin_2020-11-2-7-47vlcTbUNO_t.jpg</filename>
+	<path>D:\Workspace\Computer_Vision\images\AQUA2_20E14A99_checkin_2020-11-2-7-47vlcTbUNO_t.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>220</ymin>
+			<xmax>252</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

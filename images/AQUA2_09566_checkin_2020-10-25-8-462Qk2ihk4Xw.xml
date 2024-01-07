@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>AQUA2_09566_checkin_2020-10-25-8-462Qk2ihk4Xw.jpg</filename>
+	<path>D:\Workspace\Computer_Vision\images\AQUA2_09566_checkin_2020-10-25-8-462Qk2ihk4Xw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>160</ymin>
+			<xmax>295</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

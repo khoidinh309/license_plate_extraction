@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>AEONTP_51F86947_checkin_2020-1-13-16-15sUVxP1Ihlt.jpg</filename>
+	<path>D:\Workspace\Computer_Vision\images\AEONTP_51F86947_checkin_2020-1-13-16-15sUVxP1Ihlt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>623</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>247</ymin>
+			<xmax>399</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
